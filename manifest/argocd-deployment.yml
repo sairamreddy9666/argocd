@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
         - name: cycle-container
-          image: shaikmustafa/dm
+          image: shaikmustafa/netflix
           ports:
             - containerPort: 80
 
