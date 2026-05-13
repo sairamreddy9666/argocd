@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
         - name: cycle-container
-          image: shaikmustafa/cycle
+          image: shaikmustafa/mygame
           ports:
             - containerPort: 80
 
